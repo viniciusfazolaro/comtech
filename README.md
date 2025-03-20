@@ -10,6 +10,9 @@ O projeto é uma aplicação web de assistência técnica desenvolvida com foco 
 - **Back-end:**  
   Desenvolvido em **Java**, com gerenciamento de dependências via **Maven** e arquitetura baseada no padrão **MVC** para melhor organização e manutenibilidade do código.
 
+- **Banco de Dados:**  
+  Utiliza **MySQL** para persistência dos dados da aplicação.
+
 ## ⚙️ Funcionalidades
 
 A aplicação oferece as seguintes funcionalidades:
