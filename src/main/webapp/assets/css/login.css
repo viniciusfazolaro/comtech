@@ -1,0 +1,19 @@
+body {
+    background-color: #37517e;
+}
+
+.login-form {
+    background-color: #2e2e2e;
+    border-radius: 50px;
+    color: white;
+}
+
+.back {
+    margin: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+span {
+    color: red;
+}
